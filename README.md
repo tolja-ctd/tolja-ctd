@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on https://www.ctd.ai/
+- Main account: https://github.com/aleksaToljic
+- Other account: https://github.com/toljaEmbroker
